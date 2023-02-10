@@ -7,6 +7,6 @@ In the configuration file you will also see a Stellar secret key which is automa
 ## Install and run
 
  To install the node, create a new Python virtual environment, then install the node with pip: `pip install neuralshare-node`
- Them, to run the node simply execute: `python3 -m neuralshare-node.node`
+ To run the node : `python3 -m neuralshare-node.node`
 
 
